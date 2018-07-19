@@ -29,6 +29,21 @@
       "title": "Post 6",
       "description": "FireWorks",
       "imageHref": "https://github.com/koky06faith/RESTAPI/blob/master/images/06_fireworks.jpg"
+    },
+    { "id": 7,
+       "title": "Post 7",
+       "description": "Beach",
+       "imageHref": "https://github.com/koky06faith/RESTAPI/blob/master/images/07_beach.jpg"
+    },
+    { "id": 8,
+       "title": "Post 8",
+       "description": "Jellyfish",
+       "imageHref": "https://github.com/koky06faith/RESTAPI/blob/master/images/08_jellyfish.jpg.jpg"
+     },
+    { "id": 9,
+      "title": "Post 9",
+      "description": "Santa Cruz",
+      "imageHref": "https://github.com/koky06faith/RESTAPI/blob/master/images/09_santa_cruz.jpg"
     }
   ],
   "comments": [
