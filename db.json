@@ -38,7 +38,7 @@
     { "id": 8,
        "title": "Post 8",
        "description": "Jellyfish",
-       "imageHref": "https://github.com/koky06faith/RESTAPI/blob/master/images/08_jellyfish.jpg.jpg"
+       "imageHref": "https://github.com/koky06faith/RESTAPI/blob/master/images/08_jellyfish.jpg"
      },
     { "id": 9,
       "title": "Post 9",
