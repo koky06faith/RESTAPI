@@ -1,0 +1,46 @@
+{
+  "feeds":[
+    {"feed":{
+      "id": "1",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "tag": "news",
+      "status": "1",
+      "name": "CNN Top Stories"
+    }},
+    {"feed":{
+      "id": "2",
+      "url": "http://rss.cnn.com/rss/edition_sport.rss",
+      "tag": "sports",
+      "status": "1",
+      "name": "CNN Sports Edition"
+    }},
+    {"feed":{
+      "id": "3",
+      "url": "http://rss.cnn.com/rss/money_latest.rss",
+      "tag": "money",
+      "status": "1",
+      "name": "CNN Latest Money"
+    }},
+    {"feed":{
+      "id": "4",
+      "url": "http://rss.cnn.com/rss/cnn_allpolitics.rss",
+      "tag": "politics",
+      "status": "1",
+      "name": "CNN Politics"
+    }},
+    {"feed":{
+      "id": "5",
+      "url": "http://rss.cnn.com/rss/cnn_us.rss",
+      "tag": "US news",
+      "status": "1",
+      "name": "CNN US News"
+    }},
+    {"feed":{
+      "id": "6",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "tag": "world",
+      "status": "1",
+      "name": "CNN World News"
+    }}
+  ]
+}
