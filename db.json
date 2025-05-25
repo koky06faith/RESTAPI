@@ -45,7 +45,7 @@
       "description": "Santa Cruz",
       "imageHref": "https://github.com/koky06faith/RESTAPI/blob/master/images/09_santa_cruz.jpg"
     },
-    { "id": 11,
+    { "id": 10,
        "title": "Post 1",
        "description": "CN Tower Canada",
        "imageHref": "https://github.com/koky06faith/RESTAPI/blob/master/images/01_canada_cntour.jpg"
@@ -220,12 +220,11 @@
        "description": "Jellyfish",
        "imageHref": "https://github.com/koky06faith/RESTAPI/blob/master/images/08_jellyfish.jpg"
      },
-    { "id": 45,
+     { "id": 45,
       "title": "Post 9",
       "description": "Santa Cruz",
       "imageHref": "https://github.com/koky06faith/RESTAPI/blob/master/images/09_santa_cruz.jpg"
     }
-
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
