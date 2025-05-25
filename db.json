@@ -139,12 +139,7 @@
        "title": "Post 1",
        "description": "CN Tower Canada",
        "imageHref": "https://github.com/koky06faith/RESTAPI/blob/master/images/01_canada_cntour.jpg"
-    },
-    { "id": 29,
-       "title": "Post 2",
-       "description": "General Electric Hackathon",
-       "imageHref": "https://github.com/koky06faith/RESTAPI/blob/master/images/02_ge.jpg"
-     }
+    }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
