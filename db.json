@@ -134,11 +134,6 @@
       "title": "Post 9",
       "description": "Santa Cruz",
       "imageHref": "https://github.com/koky06faith/RESTAPI/blob/master/images/09_santa_cruz.jpg"
-    },
-    { "id": 28,
-       "title": "Post 1",
-       "description": "CN Tower Canada",
-       "imageHref": "https://github.com/koky06faith/RESTAPI/blob/master/images/01_canada_cntour.jpg"
     }
   ],
   "comments": [
